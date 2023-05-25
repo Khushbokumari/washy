@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1028406600660",
+    "firebase_url": "https://cleanforsure-cbcd0-default-rtdb.firebaseio.com",
+    "project_id": "cleanforsure-cbcd0",
+    "storage_bucket": "cleanforsure-cbcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028406600660:android:6f01819cce84bd0d522c41",
+        "android_client_info": {
+          "package_name": "washry.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028406600660-jhod2t5krucpnbm7dtta8348k3sb3h6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRy0w6lOZ7J4wmSjfHKPBOdYWgvHl1NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028406600660-jhod2t5krucpnbm7dtta8348k3sb3h6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028406600660:android:42a630f45a7f0901522c41",
+        "android_client_info": {
+          "package_name": "washy.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028406600660-jhod2t5krucpnbm7dtta8348k3sb3h6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRy0w6lOZ7J4wmSjfHKPBOdYWgvHl1NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028406600660-jhod2t5krucpnbm7dtta8348k3sb3h6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
